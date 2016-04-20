@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<garage>
+    <car>
+        <tag>police_01</tag>
+        <originXRot>20</originXRot>
+        <originYRot>28</originYRot>
+        <distanceEssieux>63</distanceEssieux>
+        <name>challenger</name>
+        <path>police/</path>
+    </car>
+</garage>

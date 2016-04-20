@@ -1,0 +1,48 @@
+/* 
+    Document   : style
+    Created on : Jun 23, 2013, 4:46:57 PM
+    Author     : razan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root 
+{ 
+    display: block;
+}
+body 
+{
+    background: transparent;
+    text-align: left;
+}
+#conteneur 
+{
+    width: 1024px;
+    height: 768px;
+    border: 1px solid #333;
+    margin-left: auto;
+    margin-right: auto;
+    background: transparent;
+}
+#canvasElem 
+{
+    position: absolute;
+    width: 1024px;
+    height: 768px;
+    border: 1px solid #333;
+    background: grey;
+    z-index: 1;
+}
+#spriteElem 
+{
+    position: relative;
+    border-width: 1px;
+    border-style: none;
+    z-index: 2;
+}
+h1 
+{
+    text-align: center;
+    font-variant: small-caps;
+    color: #FFF;
+}
